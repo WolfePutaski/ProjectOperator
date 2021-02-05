@@ -56,10 +56,15 @@
     <Analyzer Include="C:\Program Files (x86)\Microsoft Visual Studio Tools for Unity\16.0\Analyzers\Microsoft.Unity.Analyzers.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\Player\SC_GetMousePosition.cs" />
     <Compile Include="Assets\Script\Player\SC_LookDir.cs" />
-    <Compile Include="Assets\Script\Player\SC_Inventory.cs" />
+    <Compile Include="Assets\Script\Player\SC_Fire.cs" />
+    <Compile Include="Assets\Script\Player\SC_GetMousePosition.cs" />
     <Compile Include="Assets\Script\Player\Weapons\SC_Weapon_Master.cs" />
+    <Compile Include="Assets\Script\Player\SC_Inventory.cs" />
+    <Compile Include="Assets\Script\Player\Crosshair\SC_Crosshair.cs" />
+    <Compile Include="Assets\Script\Player\SC_GetComponents.cs" />
+    <Compile Include="Assets\Script\GameManager\SC_ObjectPooler.cs" />
+    <Compile Include="Assets\Script\Enemy\SC_MoveToObject.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

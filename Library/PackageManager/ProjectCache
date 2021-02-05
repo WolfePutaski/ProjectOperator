@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637470118918727172
-    m_Hash: 2252368122
+      ticks: 637480759998925299
+    m_Hash: 3109684889
   m_LockFileStatus:
     m_FilePath: D:/Unity Projects/Project Operator/Operator_SuperPrototype/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637470119193184779
-    m_Hash: 3060907799
+      ticks: 637480760032740647
+    m_Hash: 4287202910
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -91,10 +91,13 @@ m_PackageAssets:
         - 5.0.1
         - 5.0.2
         - 5.0.3
+        - 5.0.4
         - 6.0.0-pre.1
+        - 6.0.0-pre.2
         compatible:
         - 5.0.3
-        verified: 5.0.3
+        - 5.0.4
+        verified: 5.0.4
       dependencies:
       - name: com.unity.2d.common
         version: 4.0.3
@@ -190,6 +193,7 @@ m_PackageAssets:
         - 4.0.0
         - 4.0.1
         - 5.0.0-pre.1
+        - 5.0.0-pre.2
         compatible:
         - 4.0.1
         verified: 4.0.1
@@ -273,6 +277,7 @@ m_PackageAssets:
         - 4.0.1
         - 4.0.2
         - 5.0.0-pre.1
+        - 5.0.0-pre.2
         compatible:
         - 4.0.2
         verified: 4.0.2
@@ -430,6 +435,7 @@ m_PackageAssets:
         - 3.0.12
         - 3.0.13
         - 3.0.14
+        - 3.0.15
         - 4.0.0
         - 4.0.1
         - 4.0.2
@@ -444,10 +450,13 @@ m_PackageAssets:
         - 5.0.1
         - 5.0.2
         - 5.1.0
+        - 5.1.1
         - 6.0.0-pre.1
+        - 6.0.0-pre.2
         compatible:
         - 5.1.0
-        verified: 5.1.0
+        - 5.1.1
+        verified: 5.1.1
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -975,12 +984,12 @@ m_PackageAssets:
         url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: f04391d9987f4a534f886a9638b011d53e5871d8
         path: 
-    - packageId: com.unity.textmeshpro@3.0.1
+    - packageId: com.unity.textmeshpro@3.0.3
       testable: 0
       isDirectDependency: 1
-      version: 3.0.1
+      version: 3.0.3
       source: 1
-      resolvedPath: D:\Unity Projects\Project Operator\Operator_SuperPrototype\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: D:\Unity Projects\Project Operator\Operator_SuperPrototype\Library\PackageCache\com.unity.textmeshpro@3.0.3
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1114,13 +1123,13 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637314376320000000
+      datePublishedTicks: 637394911680000000
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.textmeshpro.git
-        revision: 1604b62e543216408311bcd1355a7a9ca1e65765
+        revision: 648406226df6c4f28a0f64eaab42ddc3db70c475
         path: 
     - packageId: com.unity.timeline@1.3.6
       testable: 0
@@ -3135,7 +3144,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 0
+      datePublishedTicks: 637429759280000000
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3248,6 +3257,7 @@ m_PackageAssets:
         - 1.2.0-preview.1
         - 2.0.1
         - 2.0.2
+        - 2.1.0
         - 3.0.0
         - 3.0.1
         - 4.0.0
@@ -3255,6 +3265,7 @@ m_PackageAssets:
         - 4.0.2
         - 4.0.3
         - 5.0.0-pre.1
+        - 5.0.0-pre.2
         compatible:
         - 4.0.2
         - 4.0.3
@@ -3328,12 +3339,14 @@ m_PackageAssets:
         - 2.0.4
         - 2.0.5
         - 2.0.6
+        - 2.1.0
         - 3.0.0
         - 3.0.1
         - 3.0.2
         - 4.0.0
         - 4.0.1
         - 5.0.0-pre.1
+        - 5.0.0-pre.2
         compatible:
         - 4.0.1
         verified: 4.0.1

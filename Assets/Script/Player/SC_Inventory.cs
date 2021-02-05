@@ -4,16 +4,7 @@ using UnityEngine;
 
 public class SC_Inventory : MonoBehaviour
 {
-
-    // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+    public SC_Weapon_Master equippedWeapon;
+    [SerializeField]
+    public WeaponFunctionProperties equippedWeaponProperty;
 }
